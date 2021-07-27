@@ -24,7 +24,7 @@ if today in new_dic:
 server = smtplib.SMTP('smtp.gmail.com.')
 server.starttls()
 username = 'nguyentangthaihoa2101@gmail.com'
-password = 'Phaithatmanhme1999@'
+password = '*******'
 to_email = 'hoa.ntt5224@sinhvien.hoasen.edu.vn'
 bcc = 'nguyentangthaihoa21011999@gmail.com'
 subject = 'Sending from pythoneverywhere'
